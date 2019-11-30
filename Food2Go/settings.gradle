@@ -1,0 +1,2 @@
+include ':app', ':core', ':webservice'
+rootProject.name='Food2Go'
